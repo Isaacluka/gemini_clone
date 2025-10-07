@@ -10,7 +10,7 @@ import setting_icon from './settings.png'
 import message_icon from './chat.png'
 import send_icon from './send.png'
 import code_icon from './coding.png'
-import user_icon from './Isaac.png'
+import user_icon from './boy.png'
 import history_icon from './history.png'
 
 export const assets = {
