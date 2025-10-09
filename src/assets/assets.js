@@ -12,6 +12,7 @@ import send_icon from './send.png'
 import code_icon from './coding.png'
 import user_icon from './boy.png'
 import history_icon from './history.png'
+import gemini_icon from './ai.png'
 
 export const assets = {
     plus_icon,
@@ -27,5 +28,6 @@ export const assets = {
     send_icon,
     code_icon,
     user_icon,
-    history_icon
+    history_icon,
+    gemini_icon
 }
